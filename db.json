@@ -1,0 +1,208 @@
+{
+    "data-daerah" : [
+        {
+            "provinsi" : "DKI Jakarta",
+            "positif" : 4770,
+            "sembuh" : 741,
+            "meninggal" : 414
+        },
+        {
+            "provinsi" : "Jawa Barat",
+            "positif" : 1320,
+            "sembuh" : 177,
+            "meninggal" : 90
+        },
+        {
+            "provinsi" : "Jawa Timur",
+            "positif" : 1221,
+            "sembuh" : 199,
+            "meninggal" : 123
+        },
+        {
+            "provinsi" : "Jawa Tengah",
+            "positif" : 891,
+            "sembuh" : 145,
+            "meninggal" : 464
+        },
+        {
+            "provinsi" : "Sulawesi Selatan",
+            "positif" : 665,
+            "sembuh" : 235,
+            "meninggal" : 45
+        },
+        {
+            "provinsi" : "Banten",
+            "positif" : 487,
+            "sembuh" : 122,
+            "meninggal" : 41
+        },
+        {
+            "provinsi" : "NTB",
+            "positif" : 289,
+            "sembuh" : 53,
+            "meninggal" : 5
+        },
+        {
+            "provinsi" : "Bali",
+            "positif" : 277,
+            "sembuh" : 166,
+            "meninggal" : 4
+        },
+        {
+            "provinsi" : "Papua",
+            "positif" : 248,
+            "sembuh" : 48,
+            "meninggal" : 6
+        },
+        {
+            "provinsi" : "Sumatera Barat",
+            "positif" : 238,
+            "sembuh" : 38,
+            "meninggal" : 16
+        },
+        {
+            "provinsi" : "Kalimantan Selatan",
+            "positif" : 225,
+            "sembuh" : 24,
+            "meninggal" : 9
+        },
+        {
+            "provinsi" : "Sumatera Selatan",
+            "positif" : 210,
+            "sembuh" : 47,
+            "meninggal" : 5
+        },
+        {
+            "provinsi" : "Kalimantan Tengah",
+            "positif" : 186,
+            "sembuh" : 15,
+            "meninggal" : 7
+        },
+        {
+            "provinsi" : "Kalimantan Timur",
+            "positif" : 182,
+            "sembuh" : 13,
+            "meninggal" : 2
+        },
+        {
+            "provinsi" : "Sumatera Utara",
+            "positif" : 141,
+            "sembuh" : 43,
+            "meninggal" : 16
+        },
+        {
+            "provinsi" : "Kalimantan Utara",
+            "positif" : 131,
+            "sembuh" : 6,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "DI Yogyakarta",
+            "positif" : 122,
+            "sembuh" : 53,
+            "meninggal" : 7
+        },
+        {
+            "provinsi" : "Kepulauan Riau",
+            "positif" : 98,
+            "sembuh" : 57,
+            "meninggal" : 10
+        },
+        {
+            "provinsi" : "Kalimantan Barat",
+            "positif" : 90,
+            "sembuh" : 8,
+            "meninggal" : 3
+        },
+        {
+            "provinsi" : "Sulawesi Tengah",
+            "positif" : 70,
+            "sembuh" : 12,
+            "meninggal" : 3
+        },
+        {
+            "provinsi" : "Sulawesi Tenggara",
+            "positif" : 69,
+            "sembuh" : 15,
+            "meninggal" : 2
+        },
+        {
+            "provinsi" : "Lampung",
+            "positif" : 63,
+            "sembuh" : 18,
+            "meninggal" : 5
+        },
+        {
+            "provinsi" : "Riau",
+            "positif" : 61,
+            "sembuh" : 28,
+            "meninggal" : 6
+        },
+        {
+            "provinsi" : "Sulawesi Barat",
+            "positif" : 58,
+            "sembuh" : 4,
+            "meninggal" : 2
+        },
+        {
+            "provinsi" : "Papua Barat",
+            "positif" : 53,
+            "sembuh" : 0,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "Maluku Utara",
+            "positif" : 50,
+            "sembuh" : 5,
+            "meninggal" : 0
+        },
+        {
+            "provinsi" : "Jambi",
+            "positif" : 47,
+            "sembuh" : 1,
+            "meninggal" : 0
+        },
+        {
+            "provinsi" : "Sulawesi Utara",
+            "positif" : 45,
+            "sembuh" : 17,
+            "meninggal" : 4
+        },
+        {
+            "provinsi" : "Kep. Bangka Belitung",
+            "positif" : 28,
+            "sembuh" : 4,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "Maluku",
+            "positif" : 23,
+            "sembuh" : 12,
+            "meninggal" : 0
+        },
+        {
+            "provinsi" : "Aceh",
+            "positif" : 17,
+            "sembuh" : 7,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "Gorontalo",
+            "positif" : 15,
+            "sembuh" : 2,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "Bengkulu",
+            "positif" : 14,
+            "sembuh" : 1,
+            "meninggal" : 1
+        },
+        {
+            "provinsi" : "NTT",
+            "positif" : 12,
+            "sembuh" : 1,
+            "meninggal" : 0
+        }
+    ]
+}
